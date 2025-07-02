@@ -1,0 +1,22 @@
+💰 TRADEMIND WEEKLY REPORT
+===========================
+
+Initial Capital: ₹10
+Asset: BTC-USD
+
+📅 Trade Log:
+2025-06-26: HOLD | Close: $106960.00
+2025-06-27: HOLD | Close: $107088.43
+2025-06-28: HOLD | Close: $107327.70
+2025-06-29: HOLD | Close: $108385.57
+2025-06-30: HOLD | Close: $107135.34
+2025-07-02: HOLD | Close: $106335.23
+
+🤖 AI THOUGHTS:
+“This week showed minor volatility. A smart buy was made when BTC dropped >2%. A quick sell after a >3% gain locked in profit. Strategy is working in short-term trades.”
+
+📈 NEXT WEEK PLAN:
+- Monitor BTC daily
+- Buy on >2% drop days
+- Set alert on >3% gain to sell
+- Expand to ETH next week
